@@ -61,41 +61,40 @@ The YouTube Video Summarizer solves this by:
 
 ##  **Use Cases**
 
-### ** Students**
+### Students
 
 * Summarize long educational lectures
 * Review study content quickly before exams
 
-### ** Developers / Tech Learners**
+###  Developers / Tech Learners
 
 * Extract key points from tutorials or conference talks
 
-### ** Business Professionals**
+###  Business Professionals
 
 * Summarize webinars, interviews, and case studies
 
-### ** Content Creators**
+###  Content Creators
 
 * Research competitor videos quickly
 * Generate summaries for SEO or description sections
 
-### ** News & Research Analysts**
+###  News & Research Analysts
 
 * Convert long interviews or reports into brief insights
 
 ---
 
-##  **Tech Stack (example — customize as needed)**
+##  Tech Stack 
 
 * **Backend:** Python / Node.js
-* **AI Model:** OpenAI, GPT, or any preferred LLM
 * **Frontend:** React / HTML / Streamlit UI
 * **APIs:** YouTube Data API / Transcript fetchers
 * **Deployment:** Docker / Vercel / Heroku
 
 ---
 
-##  **Installation & Usage (example snippet)**
+##  Installation & Usage 
 
 ```bash
 git clone https://github.com/your-username/youtube-video-summarizer.git

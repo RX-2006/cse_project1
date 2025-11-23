@@ -37,7 +37,7 @@ The YouTube Video Summarizer solves this by:
   Fetches the transcript of any public YouTube video using the video URL.
 
 * **AI-Powered Summaries**
-  Uses state-of-the-art NLP/LLM models to generate short, medium, or detailed summaries.
+  Uses state-of-the-art NLP models to generate short, medium, or detailed summaries.
 
 * **Keyword Extraction**
   Provides important terms, topics, and timestamps (if enabled).
@@ -62,8 +62,7 @@ The YouTube Video Summarizer solves this by:
 1. User enters the YouTube video link
 2. The application retrieves the transcript automatically
 3. The text is cleaned and chunked if necessary
-4. An AI model processes the transcript
-5. Final summary, keywords, and highlights are generated
+4. Final summary, keywords, and highlights are generated
 
 
 

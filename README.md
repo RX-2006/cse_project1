@@ -1,5 +1,5 @@
 
-YouTube Video Summarizer
+YouTube video Summanizer
 This project is a powerful tool designed to quickly generate concise summaries of YouTube videos, allowing users to grasp the main content without watching the entire duration.
 Why is a YouTube Summarizer Important?
 In today's fast-paced digital world, time is a precious commodity. The overwhelming volume of video content on platforms like YouTube makes it challenging to consume information efficiently. A YouTube Summarizer addresses this by:

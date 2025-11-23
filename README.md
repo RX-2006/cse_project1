@@ -1,5 +1,5 @@
 
-Here is a clean, structured **README.md** draft for a project named **YouTube Video Summarizer**. You can copy-paste it directly into a README file or tell me if you'd like formatting changes, installation steps, architecture diagrams, or screenshots added.
+
 
 ---
 

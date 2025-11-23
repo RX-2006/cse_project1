@@ -21,11 +21,11 @@ YouTube hosts millions of videos across education, entertainment, tutorials, rev
 
 The YouTube Video Summarizer solves this by:
 
-* **Saving time** — Quickly get the main idea of videos that are hours long.
-* **Boosting productivity** — Students, professionals, and researchers can extract vital information instantly.
-* **Improving accessibility** — Users with limited time, bandwidth, or attention span benefit from concise summaries.
-* **Simplifying content navigation** — Helps users decide whether a video is worth watching.
-* **Supporting multi-tasking workflows** — Perfect for people who want quick insights while working on other tasks.
+* **Saving time** - Quickly get the main idea of videos that are hours long.
+* **Boosting productivity** - Students, professionals, and researchers can extract vital information instantly.
+* **Improving accessibility** - Users with limited time, bandwidth, or attention span benefit from concise summaries.
+* **Simplifying content navigation** - Helps users decide whether a video is worth watching.
+* **Supporting multi-tasking workflows** - Perfect for people who want quick insights while working on other tasks.
 
 
 

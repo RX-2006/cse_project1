@@ -1,13 +1,13 @@
 
 
 
----
+
 
 # **YouTube Video Summarizer**
 
 The **YouTube Video Summarizer** is a tool designed to automatically generate concise, meaningful summaries of YouTube videos using advanced natural language processing (NLP) and AI models. It helps users save time by extracting key insights from long videos—without needing to watch them in full.
 
----
+
 
 ##  **Why This Project Is Important**
 
@@ -21,7 +21,7 @@ The YouTube Video Summarizer solves this by:
 * **Simplifying content navigation** — Helps users decide whether a video is worth watching.
 * **Supporting multi-tasking workflows** — Perfect for people who want quick insights while working on other tasks.
 
----
+
 
 ##  **Key Features**
 
@@ -57,7 +57,7 @@ The YouTube Video Summarizer solves this by:
 4. An AI model processes the transcript
 5. Final summary, keywords, and highlights are generated
 
----
+
 
 ##  **Use Cases**
 

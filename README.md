@@ -33,8 +33,6 @@ The YouTube Video Summarizer solves this by:
 
 * **Automatic Transcript Extraction**
   Fetches the transcript of any public YouTube video using the video URL.
-
-  ** Summaries**
   Uses state-of-the-art NLP models to generate short, medium, or detailed summaries.
 
 * **Keyword Extraction**
